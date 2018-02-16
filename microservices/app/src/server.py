@@ -75,5 +75,4 @@ def bad_request(error=None):
 	}
 	resp = jsonify(message)
 	resp.status_code = 400
-
     return resp
