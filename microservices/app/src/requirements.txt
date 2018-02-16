@@ -3,6 +3,7 @@ requests
 gunicorn
 certifi==2017.7.27.1
 chardet==3.0.4
+dill
 click==6.7
 falcon==1.2.0
 hug==2.3.1
